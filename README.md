@@ -3,7 +3,7 @@
 # Bonito connection protocol
 
 This directory contains a Python implementation of the Bonito protocol presented in our [NSDI 2022 paper](https://nes-lab.org/pubs/2022-Geissdoerfer-Bonito.pdf).
-It enables users to compare the performance of Bonito to baseline approaches using the real-world energy-harvesting traces provided TODO.
+It enables users to compare the performance of Bonito to baseline approaches using the real-world energy-harvesting provided traces.
 
 
 ## Installation
