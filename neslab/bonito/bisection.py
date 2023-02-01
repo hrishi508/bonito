@@ -50,7 +50,7 @@ def bisection(fn, a: float, b: float, tol: float = 1e-3, max_iter: int = 100, cr
 
         if criterion(fc, tol):
             return it, c
-        if fc * fa >= 0:
+        if fc * fa > 0:
             a = c
         else:
             b = c
